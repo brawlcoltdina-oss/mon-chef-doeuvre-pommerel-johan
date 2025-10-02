@@ -1,0 +1,9 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blueviolet;
+    color: rgba(5, 240, 17, 0.938);
+    
+}
+.container{max-width:960px; 
+margin: 0 auto;
+}
