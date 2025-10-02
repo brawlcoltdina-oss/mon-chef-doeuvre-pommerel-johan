@@ -7,3 +7,18 @@ body{
 .container{max-width:960px; 
 margin: 0 auto;
 }
+header{
+    display: flex;
+     justify-content:space-around;
+     align-items:center;
+
+     padding: 1rem 2rem;
+    background-color: rgb(20, 135, 212);
+}
+ul{
+    display: flex;
+    
+}
+li{
+    margin: 15px;
+}
